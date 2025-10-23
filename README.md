@@ -3,7 +3,7 @@
 Create a valid **EPUB 3** file right in your browser and download it — no build step required.
 This app serves a single-page UI and an `/export` API that assembles an EPUB on the fly.
 
-![EPUB Maker UI](docs/screenshot.png)
+![EPUB Maker UI](public/screenshot.png)
 
 ## ✨ Features
 
