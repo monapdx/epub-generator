@@ -1,1 +1,19 @@
-
+{
+  "metadata": {
+    "title": "Sample Book",
+    "author": "EPUB Maker",
+    "language": "en",
+    "publisher": "Self",
+    "date": "2025-10-22"
+  },
+  "chapters": [
+    {
+      "title": "Introduction",
+      "contentHtml": "<p>Hello EPUB!</p>"
+    },
+    {
+      "title": "Second",
+      "contentHtml": "<p>Another chapter.</p>"
+    }
+  ]
+}
